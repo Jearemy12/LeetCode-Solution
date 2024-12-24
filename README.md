@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1511-count-number-of-teams) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jearemy12/LeetCode-Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jearemy12/LeetCode-Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
