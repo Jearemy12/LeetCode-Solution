@@ -21,5 +21,5 @@ class Solution:
                 current_ones += 1
             max_ones_in_window = max(max_ones_in_window, current_ones)
         
-        
+    
         return total_ones - max_ones_in_window
