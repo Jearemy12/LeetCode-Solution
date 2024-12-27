@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jearemy12/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [1196-filling-bookcase-shelves](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -54,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jearemy12/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jearemy12/LeetCode-Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jearemy12/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
